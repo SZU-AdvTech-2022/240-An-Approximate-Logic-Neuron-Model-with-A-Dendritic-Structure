@@ -1,4 +1,4 @@
-@article{REPO-241,
+@article{REPO-240,
     author = "Ji, Junkai and Gao, Shangce and Cheng, Jiujun and Tang, Zheng and Todo, Yuki",
     journal = "Neurocomputing",
     number = "1",
